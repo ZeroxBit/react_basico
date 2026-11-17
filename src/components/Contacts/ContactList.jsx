@@ -9,7 +9,7 @@ import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 import Button from "@material-ui/core/Button";
-import AddIcon from "@material-ui/icons/Add";
+import { Add as AddIcon } from "@material-ui/icons";
 import Grid from "@material-ui/core/Grid";
 import { Link } from "react-router-dom";
 
